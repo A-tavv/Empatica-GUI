@@ -1,1 +1,1 @@
-# Empatica-Exporter
+# Empatica-GUI
